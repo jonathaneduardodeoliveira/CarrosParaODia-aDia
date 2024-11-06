@@ -11,4 +11,11 @@ public class Endereco {
     private String cidade;
     private String estado;
     private String cep;
+
+    public int getId() {
+        return 0;
+    }
+
+    public void setId(Long ignoredId) {
+    }
 }

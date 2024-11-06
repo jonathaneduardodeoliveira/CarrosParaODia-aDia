@@ -29,4 +29,8 @@ public class Cliente {
 
     @Embedded
     private Endereco endereco;
+
+    public Cliente() {
+
+    }
 }
